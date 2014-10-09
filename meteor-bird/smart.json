@@ -1,0 +1,9 @@
+{
+  "name": "meteor-bird",
+  "description": "Meteor Bird Social Network",
+  "author": "Kairo de Jesus Silva <kairogyn@gmail.com>",
+  "version": "0.0.1",
+  "packages": {
+    "bootstrap-3": {}
+  }
+}
