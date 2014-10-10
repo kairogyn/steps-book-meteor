@@ -1,5 +1,5 @@
 Template.timeline.helpers({
   posts: function(){
-    Session.get("posts");
+    return Post.find({});
   }
 });
