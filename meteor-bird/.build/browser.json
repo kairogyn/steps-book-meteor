@@ -1,0 +1,19 @@
+{
+  "format": "unipackage-slice-pre1",
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "browser/packages/meteor-bird.js",
+      "length": 0,
+      "offset": 0,
+      "servePath": "/packages/meteor-bird.js",
+      "sourceMap": "browser/packages/meteor-bird.js.map"
+    }
+  ]
+}

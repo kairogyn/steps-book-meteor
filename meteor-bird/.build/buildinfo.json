@@ -1,0 +1,40 @@
+{
+  "builtBy": "meteor/10",
+  "sliceDependencies": {
+    "browser.json": {
+      "files": {
+        "/home/kairo/steps-book-meteor/meteor-bird/packages/meteor-bird/package.js": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      },
+      "directories": []
+    },
+    "os.json": {
+      "files": {
+        "/home/kairo/steps-book-meteor/meteor-bird/packages/meteor-bird/package.js": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      },
+      "directories": []
+    },
+    "tests.browser.json": {
+      "files": {
+        "/home/kairo/steps-book-meteor/meteor-bird/packages/meteor-bird/package.js": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      },
+      "directories": []
+    },
+    "tests.os.json": {
+      "files": {
+        "/home/kairo/steps-book-meteor/meteor-bird/packages/meteor-bird/package.js": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/home/kairo/steps-book-meteor/meteor-bird/packages/meteor-bird/package.js": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    "directories": []
+  },
+  "pluginProviderPackages": {
+    "meteor-bird": "/home/kairo/steps-book-meteor/meteor-bird/packages/meteor-bird",
+    "meteor": "/root/.meteor/packages/meteor/8e32057b0d"
+  },
+  "source": "/home/kairo/steps-book-meteor/meteor-bird/packages/meteor-bird"
+}
