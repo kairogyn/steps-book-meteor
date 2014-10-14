@@ -2,9 +2,11 @@
   <title>Meteor Bird</title>
 </head>
 <body>
+</body>
+<template name="layout">
   {{> header}}
   <main class="container">
-   {{> home}}
+   {{> yield}}
   </main>
   {{> footer}}
-</body>
+</template>
