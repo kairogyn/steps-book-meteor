@@ -4,7 +4,10 @@
       <legend>Útilmos Posts</legend>
       {{#each posts}}
       <blockquote class="lead">
-        <small>{{message}}</small>
+        <p>{{message}}</p>
+        <small>Autor: 
+              <a href="/user/{{userId}}">{{name}}</a>
+        </small>
       </blockquote>
       <hr>
       {{else}}
